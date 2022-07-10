@@ -1,3 +1,3 @@
 # Training-model-practice
 Include:
-LinearRegression, Gradient Descent(Batch Descent, Stochastic Gradient Descent, MiniBatch Gradient Descent)
+LinearRegression, Batch Gradient Descent, Stochastic Gradient Descent, Mini-batch Gradient Descent
