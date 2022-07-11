@@ -223,26 +223,6 @@ plt.show()
 
 """## Polynomial Regression
 
-ID 9
-9-14: Rub face not drowsy
-14 -19
-14
-15
-16 Slight: lack of activity
-19 - 24 Scratching
-21:39 Yawn
-22:16 Yawn
-22:47 Yawn
-23:23 Yawn
-24:08 Yawn
-24:48 Yawn - Moderate
-25 Upward
-25:50 Yawn
-26:20 Yawn
-28:05 Yawn Upward
-28:56 Yawn, 29:31, 30:12, 31:10, 33:04, 33: 51, 35:23 (also scratching)
-38:40, 40:54
-42:00 End drive
 """
 
 import numpy as np
